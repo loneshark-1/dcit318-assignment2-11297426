@@ -1,0 +1,15 @@
+C:\Users\Hp\dcit318-assignment2-11297426\AbstarctClassesAndMethods\bin\Debug\net9.0\AbstarctClassesAndMethods.exe
+C:\Users\Hp\dcit318-assignment2-11297426\AbstarctClassesAndMethods\bin\Debug\net9.0\AbstarctClassesAndMethods.deps.json
+C:\Users\Hp\dcit318-assignment2-11297426\AbstarctClassesAndMethods\bin\Debug\net9.0\AbstarctClassesAndMethods.runtimeconfig.json
+C:\Users\Hp\dcit318-assignment2-11297426\AbstarctClassesAndMethods\bin\Debug\net9.0\AbstarctClassesAndMethods.dll
+C:\Users\Hp\dcit318-assignment2-11297426\AbstarctClassesAndMethods\bin\Debug\net9.0\AbstarctClassesAndMethods.pdb
+C:\Users\Hp\dcit318-assignment2-11297426\AbstarctClassesAndMethods\obj\Debug\net9.0\AbstarctClassesAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\dcit318-assignment2-11297426\AbstarctClassesAndMethods\obj\Debug\net9.0\AbstarctClassesAndMethods.AssemblyInfoInputs.cache
+C:\Users\Hp\dcit318-assignment2-11297426\AbstarctClassesAndMethods\obj\Debug\net9.0\AbstarctClassesAndMethods.AssemblyInfo.cs
+C:\Users\Hp\dcit318-assignment2-11297426\AbstarctClassesAndMethods\obj\Debug\net9.0\AbstarctClassesAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\Hp\dcit318-assignment2-11297426\AbstarctClassesAndMethods\obj\Debug\net9.0\AbstarctClassesAndMethods.sourcelink.json
+C:\Users\Hp\dcit318-assignment2-11297426\AbstarctClassesAndMethods\obj\Debug\net9.0\AbstarctClassesAndMethods.dll
+C:\Users\Hp\dcit318-assignment2-11297426\AbstarctClassesAndMethods\obj\Debug\net9.0\refint\AbstarctClassesAndMethods.dll
+C:\Users\Hp\dcit318-assignment2-11297426\AbstarctClassesAndMethods\obj\Debug\net9.0\AbstarctClassesAndMethods.pdb
+C:\Users\Hp\dcit318-assignment2-11297426\AbstarctClassesAndMethods\obj\Debug\net9.0\AbstarctClassesAndMethods.genruntimeconfig.cache
+C:\Users\Hp\dcit318-assignment2-11297426\AbstarctClassesAndMethods\obj\Debug\net9.0\ref\AbstarctClassesAndMethods.dll
