@@ -1,0 +1,14 @@
+C:\Users\Hp\dcit318-assignment2-11297426\InheritanceAndMethodOverriding\bin\Debug\net9.0\InheritanceAndMethodOverriding.exe
+C:\Users\Hp\dcit318-assignment2-11297426\InheritanceAndMethodOverriding\bin\Debug\net9.0\InheritanceAndMethodOverriding.deps.json
+C:\Users\Hp\dcit318-assignment2-11297426\InheritanceAndMethodOverriding\bin\Debug\net9.0\InheritanceAndMethodOverriding.runtimeconfig.json
+C:\Users\Hp\dcit318-assignment2-11297426\InheritanceAndMethodOverriding\bin\Debug\net9.0\InheritanceAndMethodOverriding.dll
+C:\Users\Hp\dcit318-assignment2-11297426\InheritanceAndMethodOverriding\bin\Debug\net9.0\InheritanceAndMethodOverriding.pdb
+C:\Users\Hp\dcit318-assignment2-11297426\InheritanceAndMethodOverriding\obj\Debug\net9.0\InheritanceAndMethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\dcit318-assignment2-11297426\InheritanceAndMethodOverriding\obj\Debug\net9.0\InheritanceAndMethodOverriding.AssemblyInfoInputs.cache
+C:\Users\Hp\dcit318-assignment2-11297426\InheritanceAndMethodOverriding\obj\Debug\net9.0\InheritanceAndMethodOverriding.AssemblyInfo.cs
+C:\Users\Hp\dcit318-assignment2-11297426\InheritanceAndMethodOverriding\obj\Debug\net9.0\InheritanceAndMethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\Hp\dcit318-assignment2-11297426\InheritanceAndMethodOverriding\obj\Debug\net9.0\InheritanceAndMethodOverriding.dll
+C:\Users\Hp\dcit318-assignment2-11297426\InheritanceAndMethodOverriding\obj\Debug\net9.0\refint\InheritanceAndMethodOverriding.dll
+C:\Users\Hp\dcit318-assignment2-11297426\InheritanceAndMethodOverriding\obj\Debug\net9.0\InheritanceAndMethodOverriding.pdb
+C:\Users\Hp\dcit318-assignment2-11297426\InheritanceAndMethodOverriding\obj\Debug\net9.0\InheritanceAndMethodOverriding.genruntimeconfig.cache
+C:\Users\Hp\dcit318-assignment2-11297426\InheritanceAndMethodOverriding\obj\Debug\net9.0\ref\InheritanceAndMethodOverriding.dll
